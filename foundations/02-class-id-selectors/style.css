@@ -1,0 +1,19 @@
+.p-class {
+    background-color: #f08080;
+    font-family: "Verdana", "DejaVu Sans", sans-serif
+}
+
+.numberThree {
+    font-size: 24px;
+}
+
+#numberTwo {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#numberFour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
